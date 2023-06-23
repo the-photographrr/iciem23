@@ -1,0 +1,9 @@
+.root {
+  height: 100%;
+  font-family: sans-serif;
+  background-color: __backgroundColor__;
+  flex-basis: 100%;
+  width: 100vh;
+  overflow-y: auto;
+  /* __center__ */
+}

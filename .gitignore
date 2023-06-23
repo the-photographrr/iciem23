@@ -1,0 +1,36 @@
+# Dependency directories
+/node_modules
+/dist
+
+# TypeScript build artifacts
+*.js
+*.js.map
+*.d.ts
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Testing
+/coverage
+
+# Build scripts
+/build
+/out
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
